@@ -11,3 +11,4 @@
 \bibliography{publications}
 \nocite{*}
 ```
+![demo.png](demo.png)
